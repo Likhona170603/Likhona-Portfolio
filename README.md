@@ -72,7 +72,7 @@ National Senior Certificate
 
 My CV provides a detailed overview of my education, technical skills and professional experience
 
-[Download My CV](Likhona_Noroyita_CV.pdf)
+[Download My CV](Resume2.pdf)
 
 ---
 
