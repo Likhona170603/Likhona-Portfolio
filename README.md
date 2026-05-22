@@ -30,7 +30,7 @@ National Senior Certificate
 - Python
 - SQL
 
-### Bevelopment Tools
+### Development Tools
 - Netbeans
 - IntelliJ IDEA
 - MySQL Workbench
