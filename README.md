@@ -118,7 +118,7 @@ Writing user stories first kept our work focused on the people we were designing
 
 Every sprint was split into four day-cards, and each card had a user story and a checklist of subtasks that we ticked off as we went.
 
-[See Spring Backlog](trello-sprint-1.jpeg,trello-sprint-2.jpeg,trello-sprint-3.jpeg,trello-sprint-4.jpeg,trello-sprint-5.jpeg)
+[See Sprint Backlog](trello-sprint-1.jpeg,trello-sprint-2.jpeg,trello-sprint-3.jpeg,trello-sprint-4.jpeg,trello-sprint-5.jpeg)
 
 # Reflection
 Splitting each sprint into small day-cards made progress easy to see and made blockers easier to spot. Our research sprints (1 to 3) finished with all planned cards ticked off, which showed me how much a clear checklist helps a team stay on track. The two Sprint 1 cards left open taught me that it is better to leave a card honestly open than to mark it done early, and to deal with it at the next planning session.
