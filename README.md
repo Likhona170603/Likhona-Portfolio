@@ -82,9 +82,6 @@ The mock interview demonstrates my communication and professionalism
 
 [Click Here to Watch My Mock Interview](https://drive.google.com/file/d/1bXh06TDVpfmmpXFAW-uZtfYKmivVqZ6c/view?usp=drivesdk)
 
-### Agile Team Charter
-[Download the Connectly Agile Team Charter (Word)](docs/Agile Team Charter.docx)
-
 # Reflections
 
 ### Reflection on Markdown(.md)
