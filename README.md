@@ -129,7 +129,7 @@ Splitting each sprint into small day-cards made progress easy to see and made bl
 
 I kept a daily stand-up logbook during Sprint 4 (26-29 September 2026). Each day I answered three questions: what did I complete, what is next, and what is blocking me.
 
-[See Agile Logbook](Agile-Logbook.docx)
+[See Agile Logbook](Agile-logbook.docx)
 
 # Reflection
 The daily logbook made me stop and think about what I had actually finished and what might hold the team up. Raising problems early, such as agreeing the listing fields, meant they were solved in the stand-up instead of becoming delays later.
